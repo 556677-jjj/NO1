@@ -30,6 +30,8 @@
 - [视频 05：What makes an AI company?（什么样的公司才算善于运用 AI？）](视频05-What-makes-an-AI-company.md)
 - [视频 06：What machine learning can and cannot do（机器学习能做什么、不能做什么）](视频06-What-machine-learning-can-and-cannot-do.md)
 - [视频 07：More examples of what machine learning can and cannot do（机器学习能力边界的更多案例）](视频07-More-examples-of-what-machine-learning-can-and-cannot-do.md)
+- [视频 08：Non-technical explanation of deep learning (Part 1, optional)](视频08-Non-technical-explanation-of-deep-learning-Part-1.md) — 神经网络结构与特征表示。
+- [视频 09：Non-technical explanation of deep learning (Part 2, optional)](视频09-Non-technical-explanation-of-deep-learning-Part-2.md) — 训练、损失函数、反向传播与泛化。
 - [视频 10：Week 2 Introduction（第二周导论）](视频10-Week2-Introduction.md) — 项目流程、项目选择、数据与团队；增加 2026 年生成式 AI 项目实践更新。
 - [视频 11：Workflow of a machine learning project（机器学习项目工作流程）](视频11-Workflow-of-a-machine-learning-project.md) — 收集数据、训练、部署、反馈迭代，以及 2026 年评估和监控实践。
 - [视频 12：Workflow of a data science project（数据科学项目工作流程）](视频12-Workflow-of-a-data-science-project.md) — 数据科学项目三步法、因果验证、指标治理与 AI 辅助分析。
@@ -49,6 +51,13 @@
 - [视频 26：Survey of major AI application areas（主要 AI 应用领域概览，选修）](视频26-Survey-of-major-AI-application-areas.md) — 计算机视觉、语言、语音、结构化数据、推荐和机器人等 AI 应用版图，以及 2026 年多模态与企业应用进展。
 - [视频 27：Survey of major AI techniques（主要 AI 技术概览，选修）](视频27-Survey-of-major-AI-techniques.md) — 无监督学习、迁移学习、强化学习、GAN 与知识图谱。
 - [视频 28：Week 4 Introduction（第四周导论）](视频28-Week4-Introduction.md) — AI 的社会影响、偏见、对抗攻击、有害使用、发展中经济体与就业议题。
+- [视频 29：A realistic view of AI（对 AI 保持现实认识）](视频29-A-realistic-view-of-AI.md)
+- [视频 30：Discrimination / Bias（歧视与偏见）](视频30-Discrimination-Bias.md)
+- [视频 31：Adversarial attacks on AI（针对 AI 的对抗攻击）](视频31-Adversarial-attacks-on-AI.md)
+- [视频 32：Adverse uses of AI（AI 的有害使用）](视频32-Adverse-uses-of-AI.md)
+- [视频 33：AI and developing economies（AI 与发展中经济体）](视频33-AI-and-developing-economies.md)
+- [视频 34：AI and jobs（AI 与就业）](视频34-AI-and-jobs.md)
+- [视频 35：Conclusion（课程总结）](视频35-Conclusion.md)
 
 
 
@@ -76,9 +85,9 @@
 
 - [x] 建立课程知识库目录与四个模块笔记
 - [x] 根据公开课程大纲登记 35 节视频课及学习重点
-- [x] 完成第 1—7 节详细中文笔记（第 6、7 节增加 2026 年延伸学习）
-- [x] 完成第 10—28 节详细中文笔记（增加 2026 年现代 AI 实践延伸）
-- [ ] 补齐尚未实际入库的第 8、9 节，再完成第 29—35 节详细笔记
+- [x] 完成第 1—35 节中文笔记（包含第 8、9 节选修概念复习材料）
+- [x] 完成第 28—35 节 AI 与社会模块笔记，并补充截至 2026 年的现代进展
+- [ ] 继续补充案例、术语卡片、复习题和个人实践总结
 - [ ] 持续补充课程案例、术语卡片、复习题和现代 AI 对照
 - [ ] 完成学习后的个人实践总结
 
