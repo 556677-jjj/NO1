@@ -31,7 +31,7 @@
 - [视频 06：What machine learning can and cannot do（机器学习能做什么、不能做什么）](视频06-What-machine-learning-can-and-cannot-do.md)
 - [视频 07：More examples of what machine learning can and cannot do（机器学习能力边界的更多案例）](视频07-More-examples-of-what-machine-learning-can-and-cannot-do.md)
 - [视频 08：Non-technical explanation of deep learning (Part 1, optional)](视频08-Non-technical-explanation-of-deep-learning-Part-1.md) — 神经网络结构与特征表示。
-- [视频 09：Non-technical explanation of deep learning (Part 2, optional)](视频09-Non-technical-explanation-of-deep-learning-Part-2.md) — 训练、损失函数、反向传播与泛化。
+- [视频 09：Non-technical explanation of deep learning (Part 2, optional)](视频09-Non-technical-explanation-of-deep-learning-Part-2.md) — 以图片识别为例，理解像素数字、图像特征、训练标签，以及神经网络如何从图片中学习识别规律。
 - [视频 10：Week 2 Introduction（第二周导论）](视频10-Week2-Introduction.md) — 项目流程、项目选择、数据与团队；增加 2026 年生成式 AI 项目实践更新。
 - [视频 11：Workflow of a machine learning project（机器学习项目工作流程）](视频11-Workflow-of-a-machine-learning-project.md) — 收集数据、训练、部署、反馈迭代，以及 2026 年评估和监控实践。
 - [视频 12：Workflow of a data science project（数据科学项目工作流程）](视频12-Workflow-of-a-data-science-project.md) — 数据科学项目三步法、因果验证、指标治理与 AI 辅助分析。
