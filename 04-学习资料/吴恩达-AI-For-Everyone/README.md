@@ -29,6 +29,7 @@
 - [视频 04：The terminology of AI（AI 术语）](视频04-The-terminology-of-AI.md)
 - [视频 05：What makes an AI company?（什么样的公司才算善于运用 AI？）](视频05-What-makes-an-AI-company.md)
 - [视频 06：What machine learning can and cannot do（机器学习能做什么、不能做什么）](视频06-What-machine-learning-can-and-cannot-do.md)
+- [视频 07：More examples of what machine learning can and cannot do（机器学习能力边界的更多案例）](视频07-More-examples-of-what-machine-learning-can-and-cannot-do.md)
 
 ## 建议学习顺序
 
@@ -54,8 +55,8 @@
 
 - [x] 建立课程知识库目录与四个模块笔记
 - [x] 根据公开课程大纲登记 35 节视频课及学习重点
-- [x] 完成第 1、2、3、4、5、6 节详细中文笔记（依据公开转录参考，版本差异已注明）
-- [ ] 完成其余 29 节详细笔记
+- [x] 完成第 1、2、3、4、5、6、7 节详细中文笔记（依据公开转录参考，版本差异已注明；第 6、7 节增加 2026 年延伸学习）
+- [ ] 完成其余 28 节详细笔记
 - [ ] 补充课程案例、术语卡片和复习题
 - [ ] 完成学习后的个人实践总结
 
