@@ -45,6 +45,7 @@
 - [视频 22：AI Transformation Playbook (Part 1)（AI 转型行动手册：上）](视频22-AI-Transformation-Playbook-Part-1.md) — 五步路线图中的试点项目、内部 AI 团队和广泛培训，以及 2026 年组织与 Agent 工作流实践。
 - [视频 23：AI Transformation Playbook (Part 2)（AI 转型行动手册：下）](视频23-AI-Transformation-Playbook-Part-2.md) — 制定行业化 AI 战略、构建产品与数据正向循环，并开展内外部沟通。
 - [视频 24：AI pitfalls to avoid（应避免的 AI 陷阱）](视频24-AI-pitfalls-to-avoid.md) — 五类企业 AI 项目陷阱及 2026 年生成式 AI、Agent 权限、提示注入和系统级评估风险。
+- [视频 25：Taking your first step in AI（迈出 AI 的第一步）](视频25-Taking-your-first-step-in-AI.md) — 从低风险、可衡量的小型试点开始，评估真实价值并逐步改进。
 
 
 
@@ -73,8 +74,8 @@
 - [x] 建立课程知识库目录与四个模块笔记
 - [x] 根据公开课程大纲登记 35 节视频课及学习重点
 - [x] 完成第 1—7 节详细中文笔记（第 6、7 节增加 2026 年延伸学习）
-- [x] 完成第 10—24 节详细中文笔记（增加 2026 年现代 AI 实践延伸）
-- [ ] 补齐尚未实际入库的第 8、9 节，再完成第 25—35 节详细笔记
+- [x] 完成第 10—25 节详细中文笔记（增加 2026 年现代 AI 实践延伸）
+- [ ] 补齐尚未实际入库的第 8、9 节，再完成第 26—35 节详细笔记
 - [ ] 持续补充课程案例、术语卡片、复习题和现代 AI 对照
 - [ ] 完成学习后的个人实践总结
 
