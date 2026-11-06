@@ -30,6 +30,7 @@
 - [视频 05：What makes an AI company?（什么样的公司才算善于运用 AI？）](视频05-What-makes-an-AI-company.md)
 - [视频 06：What machine learning can and cannot do（机器学习能做什么、不能做什么）](视频06-What-machine-learning-can-and-cannot-do.md)
 - [视频 07：More examples of what machine learning can and cannot do（机器学习能力边界的更多案例）](视频07-More-examples-of-what-machine-learning-can-and-cannot-do.md)
+- [视频 10：Week 2 Introduction（第二周导论）](视频10-Week2-Introduction.md) — 项目流程、项目选择、数据与团队；增加 2026 年生成式 AI 项目实践更新。
 
 ## 建议学习顺序
 
@@ -55,9 +56,10 @@
 
 - [x] 建立课程知识库目录与四个模块笔记
 - [x] 根据公开课程大纲登记 35 节视频课及学习重点
-- [x] 完成第 1、2、3、4、5、6、7 节详细中文笔记（依据公开转录参考，版本差异已注明；第 6、7 节增加 2026 年延伸学习）
-- [ ] 完成其余 28 节详细笔记
-- [ ] 补充课程案例、术语卡片和复习题
+- [x] 完成第 1—7 节详细中文笔记（第 6、7 节增加 2026 年延伸学习）
+- [x] 完成第 10 节详细中文笔记（增加 2026 年生成式 AI 项目实践更新）
+- [ ] 补齐尚未实际入库的第 8、9 节，再完成第 11—35 节详细笔记
+- [ ] 持续补充课程案例、术语卡片、复习题和现代 AI 对照
 - [ ] 完成学习后的个人实践总结
 
 ## 维护原则
