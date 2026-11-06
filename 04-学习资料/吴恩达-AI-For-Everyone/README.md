@@ -47,6 +47,8 @@
 - [视频 24：AI pitfalls to avoid（应避免的 AI 陷阱）](视频24-AI-pitfalls-to-avoid.md) — 五类企业 AI 项目陷阱及 2026 年生成式 AI、Agent 权限、提示注入和系统级评估风险。
 - [视频 25：Taking your first step in AI（迈出 AI 的第一步）](视频25-Taking-your-first-step-in-AI.md) — 从低风险、可衡量的小型试点开始，评估真实价值并逐步改进。
 - [视频 26：Survey of major AI application areas（主要 AI 应用领域概览，选修）](视频26-Survey-of-major-AI-application-areas.md) — 计算机视觉、语言、语音、结构化数据、推荐和机器人等 AI 应用版图，以及 2026 年多模态与企业应用进展。
+- [视频 27：Survey of major AI techniques（主要 AI 技术概览，选修）](视频27-Survey-of-major-AI-techniques.md) — 无监督学习、迁移学习、强化学习、GAN 与知识图谱。
+- [视频 28：Week 4 Introduction（第四周导论）](视频28-Week4-Introduction.md) — AI 的社会影响、偏见、对抗攻击、有害使用、发展中经济体与就业议题。
 
 
 
