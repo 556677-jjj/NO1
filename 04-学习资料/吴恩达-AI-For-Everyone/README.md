@@ -36,6 +36,7 @@
 - [视频 13：Every job function needs to learn how to use data（每个岗位都需要学会使用数据）](视频13-Every-job-function-needs-to-learn-how-to-use-data.md) — 销售、制造、招聘、市场和农业中的数据应用，以及 2026 年数据/AI 素养补充。
 - [视频 14：How to choose an AI project (Part 1)（如何选择 AI 项目：上）](视频14-How-to-choose-an-AI-project-Part-1.md) — AI 可行性与业务价值、任务拆解、业务痛点、小数据试点和现代项目筛选框架。
 - [视频 15：How to choose an AI project (Part 2)（如何选择 AI 项目：下）](视频15-How-to-choose-an-AI-project-Part-2.md) — 技术、业务、伦理尽职调查；自建还是购买、内部开发还是外包，以及行业标准方案选择。
+- [视频 16：Working with an AI team（与 AI 团队合作）](视频16-Working-with-an-AI-team.md) — 验收标准、训练集/验证集/测试集、统计性性能、数据标注质量和现代 AI 评估方法。
 
 ## 建议学习顺序
 
@@ -62,8 +63,8 @@
 - [x] 建立课程知识库目录与四个模块笔记
 - [x] 根据公开课程大纲登记 35 节视频课及学习重点
 - [x] 完成第 1—7 节详细中文笔记（第 6、7 节增加 2026 年延伸学习）
-- [x] 完成第 10—15 节详细中文笔记（增加 2026 年现代 AI 实践延伸）
-- [ ] 补齐尚未实际入库的第 8、9 节，再完成第 16—35 节详细笔记
+- [x] 完成第 10—16 节详细中文笔记（增加 2026 年现代 AI 实践延伸）
+- [ ] 补齐尚未实际入库的第 8、9 节，再完成第 17—35 节详细笔记
 - [ ] 持续补充课程案例、术语卡片、复习题和现代 AI 对照
 - [ ] 完成学习后的个人实践总结
 
